@@ -4,7 +4,7 @@ A little function to web scrape Yahoo Finance data like financials or key statis
 
 # Instructions
 
-1. Download the file **yahooR.R**
+1. Download the file **get_yahoo.R**
 
 1. Load the script via `source("folder/yahooR.R")`
 
@@ -16,4 +16,4 @@ A little function to web scrape Yahoo Finance data like financials or key statis
 
 ### Get Key Statistics
 
-    get_yahoo("AAPL", "statistics)
+    get_yahoo("AAPL", "statistics")
